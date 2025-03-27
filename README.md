@@ -1,4 +1,4 @@
-# Welcome! ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
+# Bem-vindo ao meu perfil!  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
 
 
 
