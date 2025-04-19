@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todos os dias à meia-noite
-  workflow_dispatch:     # Permite rodar manualmente
+    - cron: "0 0 * * *"  # Roda todos os dias à meia-noite
+  workflow_dispatch:  # Permite rodar manualmente
 
 jobs:
   generate:
@@ -18,9 +18,9 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: dudalszz
-          color: 'github-dark'  # Adicionando a configuração do tema dark
-          output_file: './dist/github-snake-dark.svg'  # Caminho correto para o arquivo gerado
+          github_user_name: dudalszz  # Seu nome de usuário no GitHub
+          color: 'github-dark'  # Tema escuro
+          output_file: './dist/github-snake-dark.svg'  # Caminho do arquivo gerado
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
@@ -29,4 +29,3 @@ jobs:
           author_email: github-actions@github.com
           message: "generate snake animation"
           add: "dist/*"
-
