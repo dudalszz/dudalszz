@@ -28,11 +28,11 @@ Neste perfil, compartilho **projetos** e **ideias** que acompanham minha jornada
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudalszz&theme=ambient_gradient&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudalszz&theme=tokyonight&show_icons=true)
 <a href="https://github.com/dudalszz">
-<img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudalszz&layout=compact&langs_count=7&theme=ambient_gradient"/>
+<img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudalszz&layout=compact&langs_count=7&theme=tokyonight"/>
 
- ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
+ ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
 
 
 
