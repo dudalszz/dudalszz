@@ -19,8 +19,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: dudalszz  # Seu nome de usuário no GitHub
-          color: 'github-dark'  # Tema escuro
+          theme: 'github-dark'  # Força o tema escuro
           output_file: './dist/github-snake-dark.svg'  # Caminho do arquivo gerado
+
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
