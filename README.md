@@ -32,10 +32,16 @@ Neste perfil, compartilho **projetos** e **ideias** que acompanham minha jornada
 <a href="https://github.com/dudalszz">
 <img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudalszz&layout=compact&langs_count=7&theme=tokyonight"/>
 
- ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
 
 
 
 <div>
 <a href="https://instagram.com/madulsz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/maria-eduarda-lsz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<br>
+<br>
+
+
+ ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)  ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
+
