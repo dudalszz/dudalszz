@@ -1,11 +1,19 @@
-# Seja bem-vindo ao meu perfil!  
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
+# Maria Eduarda Coelho
+
+Sou uma estudante apaixonada por **tecnologia**, **administração** e **arte**. Acredito que combinar todas essas paixões, mesmo que muito diferentes umas das outras, me proporciona uma visão mais ampla do mundo e estimula continuamente minha criatividade, buscando sempre um mundo de inovação que vai além da lógica.
+
+Neste perfil, compartilho **projetos** e **ideias** que acompanham minha jornada. Seja muito bem-vindo(a)! 💜
+
+
+
+
 
 
 
 ## Atualmente estou estudando:
 
-• AWS • Python • JavaScript 
+ <img src="https://img.icons8.com/color/25/000000/amazon-web-services.png" alt="AWS" /> <img src="https://img.icons8.com/color/25/000000/python.png" alt="Python" /> <img src="https://img.icons8.com/color/25/000000/javascript.png" alt="JavaScript" /> 
+
 
 
 
@@ -20,9 +28,12 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudalszz&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudalszz&theme=ambient_gradient&show_icons=true)
 <a href="https://github.com/dudalszz">
-<img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudalszz&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudalszz&layout=compact&langs_count=7&theme=ambient_gradient"/>
+
+ ![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
+
 
 
 <div>
