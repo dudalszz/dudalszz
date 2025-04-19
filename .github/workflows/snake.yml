@@ -19,9 +19,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: dudalszz
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
+          color: 'github-dark'  # Adicionando a configuração do tema dark
+          output_file: './dist/github-snake-dark.svg'  # Caminho correto para o arquivo gerado
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
@@ -30,3 +29,4 @@ jobs:
           author_email: github-actions@github.com
           message: "generate snake animation"
           add: "dist/*"
+
