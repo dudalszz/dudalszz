@@ -6,28 +6,21 @@ Neste perfil, compartilho **projetos** e **ideias** que acompanham minha jornada
 
 ---
 
-## 📚 Atualmente estou estudando
+## 🎨  Frontend
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <br/><br/>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
----
+## 🛠️ Backend
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <br/><br/>
 
-## 💻 Tecnologias e Ferramentas
+## ⚙️ Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px; background-color: #181717; border-radius: 5px;" src="https://cdn.simpleicons.org/github/ffffff" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Insomnia" title="Insomnia" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <br/><br/>
 
----
 
 ## 🌐 Onde me encontrar
 
@@ -49,25 +42,9 @@ Neste perfil, compartilho **projetos** e **ideias** que acompanham minha jornada
 
 ---
 
+![snake gif](https://github.com/dudalszz/eliseufesantos/blob/output/github-snake-dark.svg?palette=github-dark)
 
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
-<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="30"/>
 
 
 
