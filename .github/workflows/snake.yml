@@ -26,4 +26,5 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "generate snake animation"
-          add: "dist/*"
+          add: "dist/github-snake-dark.svg"
+            
