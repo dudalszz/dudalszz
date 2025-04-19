@@ -12,6 +12,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Update Branch
+        run: git pull origin main
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -26,5 +29,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "generate snake animation"
-          add: "dist/github-snake-dark.svg"
-            
+          add: "dist/*"
