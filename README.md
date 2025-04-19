@@ -49,21 +49,24 @@ Neste perfil, compartilho **projetos** e **ideias** que acompanham minha jornada
 
 ---
 
-## Parrot Party Mode
 
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
-![conga_parrot](https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10)
 
----
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+<img src="https://github.com/user-attachments/assets/137554d3-9905-4af6-af10-0726dee76d10" width="40"/>
+
+</div>
+
 
