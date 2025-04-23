@@ -22,11 +22,6 @@ Neste perfil, compartilho **projetos** e **ideias** que acompanham minha jornada
 
 ## 🌐 Onde me encontrar
 
-<div>
-<a href="https://instagram.com/madulsz" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a> 
-
 <a href="https://www.linkedin.com/in/maria-eduarda-lsz" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
